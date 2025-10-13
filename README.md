@@ -44,4 +44,8 @@ A curated collection of research papers on LLM-based agents and agent training m
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704v1) | arXiv | 2025-09 | [GitHub](https://github.com/KANABOON1/MemGen) |![](https://img.shields.io/github/stars/KANABOON1/MemGen?style=social) |
-| [G-Memory: Tracing Hierarchical Memory for  Multi-Agent Systems](https://arxiv.org/abs/2506.07398v2) | arXiv | 2025-06 | [GitHub](https://github.com/bingreeky/GMemory) |![](https://img.shields.io/github/stars/bingreeky/GMemory?style=social) |
+| [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398v2) | arXiv | 2025-06 | [GitHub](https://github.com/bingreeky/GMemory) |![](https://img.shields.io/github/stars/bingreeky/GMemory?style=social) |
+| [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957v1) | arXiv | 2025-07 | [GitHub](https://github.com/Mirix-AI/MIRIX/tree/public_evaluation) |![](https://img.shields.io/github/stars/Mirix-AI/MIRIX?style=social) |
+
+
+---
