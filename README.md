@@ -39,3 +39,9 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 
 ---
+
+## 🎯 Agent Memory
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704v1) | arXiv | 2025-09 | [GitHub](https://github.com/KANABOON1/MemGen) |![](https://img.shields.io/github/stars/KANABOON1/MemGen?style=social) |
+| [G-Memory: Tracing Hierarchical Memory for  Multi-Agent Systems](https://arxiv.org/abs/2506.07398v2) | arXiv | 2025-06 | [GitHub](https://github.com/bingreeky/GMemory) |![](https://img.shields.io/github/stars/bingreeky/GMemory?style=social) |
