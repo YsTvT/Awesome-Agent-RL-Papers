@@ -49,3 +49,13 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 
 ---
+
+## 🎯 Agent Memory
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [FROM EXPLORATION TO MASTERY: ENABLING LLMS  TO MASTER TOOLS VIA SELF-DRIVEN INTERACTIONS](https://arxiv.org/abs/2410.08197) | ICLR 2025 | 2025-02 | [GitHub](https://github.com/quchangle1/DRAFT) |![](https://img.shields.io/github/stars/quchangle1/DRAFT?style=social) |
+| [StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning](https://arxiv.org/abs/2410.07745) | CIKM 2025 | 2025-08 | [GitHub](https://github.com/yuyq18/StepTool) |![](https://img.shields.io/github/stars/yuyq18/StepTool?style=social) |
+| [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253) | arXiv | 2024-02 | [GitHub](https://github.com/dyabel/AnyTool) |![](https://img.shields.io/github/stars/dyabel/AnyTool?style=social) |
+| [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/abs/2310.17796) | ECCV 2024 | 2023-10 | [GitHub](https://github.com/OpenGVLab/ControlLLM) |![](https://img.shields.io/github/stars/OpenGVLab/ControlLLM?style=social) |
+
+---
