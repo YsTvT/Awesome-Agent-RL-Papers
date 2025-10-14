@@ -79,6 +79,8 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2405.14751) | arXiv | 2025-03 | [GitHub](https://github.com/GAIR-NLP/ToRL) |![](https://img.shields.io/github/stars/GAIR-NLP/ToRL?style=social) |
 | [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-08 | [GitHub](https://github.com/OceannTwT/Tool-Planner) |![](https://img.shields.io/github/stars/OceannTwT/Tool-Planner?style=social) |
 | [ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-03 | [GitHub](https://github.com/holi-lab/ToolDial) |![](https://img.shields.io/github/stars/holi-lab/ToolDial?style=social) |
+| [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
+| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
 
 ---
 
@@ -89,12 +91,6 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
 
 ---
-
-## 🎯 Tool-Calling
-| Title | Venue | Date | Code | Stars |
-|-------|-------|------|------|-------|
-| [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
-| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
 
 ## 🎯 Agent Evaluation & Benchmark
 | Title | Venue | Date | Code | Stars |
