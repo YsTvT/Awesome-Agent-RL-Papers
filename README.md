@@ -64,6 +64,11 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ## 🔄 Multi-turn
 
+### Overview and Experience
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [A Practitioner's Guide to Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2510.01132v1) | arXiv | 2025-10 | [GitHub](https://github.com/pearls-lab/meow-tea-taro) | ![](https://img.shields.io/github/stars/pearls-lab/meow-tea-taro?style=social) |
+
 ### Policy Optimization
 
 | Title | Venue | Date | Code | Stars |
@@ -72,7 +77,6 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [Agentic Reinforced Policy Optimization (ARPO)](https://arxiv.org/abs/2507.19849v1) | arXiv | 2025-07 | [GitHub](https://github.com/dongguanting/ARPO) | ![](https://img.shields.io/github/stars/dongguanting/ARPO?style=social) |
 | [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978v1) | NeurIPS 2025 | 2025-05 | [GitHub](https://github.com/langfengQ/verl-agent) | ![](https://img.shields.io/github/stars/langfengQ/verl-agent?style=social) |
 | [Direct Multi-Turn Preference Optimization for Language Agents](https://arxiv.org/abs/2406.14868v5) | EMNLP 2024 | 2024-06 | [GitHub](https://github.com/swt-user/DMPO) | ![](https://img.shields.io/github/stars/swt-user/DMPO?style=social) |
-| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
 
 ---
 
@@ -87,15 +91,15 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Environment & Benchmark（环境与基准）
+### Environment and Framework
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
-| [A Practitioner's Guide to Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2510.01132v1) | arXiv | 2025-10 | [GitHub](https://github.com/pearls-lab/meow-tea-taro) | ![](https://img.shields.io/github/stars/pearls-lab/meow-tea-taro?style=social) |
 | [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making Through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755v1) | arXiv | 2025-09 | [GitHub](https://github.com/woooodyy/AgentGym-RL) | ![](https://img.shields.io/github/stars/woooodyy/AgentGym-RL?style=social) |
 | [WEBAGENT-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2505.16421v1) | EMNLP 2025 | 2025-05 | [GitHub](https://github.com/weizhepei/WebAgent-R1) | ![](https://img.shields.io/github/stars/weizhepei/WebAgent-R1?style=social) |
 | [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446v1) | arXiv | 2025-09 | [GitHub](https://github.com/THUDM/DeepDive) | ![](https://img.shields.io/github/stars/THUDM/DeepDive?style=social) |
 | [MUA-RL: Multi-Turn User-Interacting Agent Reinforcement Learning for Agentic Tool Use](https://arxiv.org/abs/2508.18669v1) | arXiv | 2025-08 | [GitHub](https://github.com/zzwkk/MUA-RL) | ![](https://img.shields.io/github/stars/zzwkk/MUA-RL?style=social) |
+| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
 
 ---
 
