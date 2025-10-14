@@ -121,6 +121,20 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
+
+
+## 🎯 Agent Workflow
+
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | ICML 2025 | 2024-07 | [GitHub](https://github.com/OPPO-PersonalAI/Agent-KB) | ![](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB?style=social) |
+| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | arXiv | 2024-09 | [GitHub](https://github.com/zorazrw/agent-workflow-memory) | ![](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory?style=social) |
+| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/FoundationAgents/AFlow) | ![](https://img.shields.io/github/stars/FoundationAgents/AFlow?style=social) |
+| [Get Experience from Practice: LLM Agents with Record & Replay](https://arxiv.org/abs/2505.17716) | arXiv  | 2025-05 | - | - |
+| [Agentdistill: training-free agent distillation withgeneralizable mcp boxes](https://arxiv.org/abs/2506.14728) | arXiv | 2025-06 | - | - |
+
+---
+
 ## 🎯 Agent Evaluation & Benchmark
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
