@@ -63,6 +63,10 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957v1) | arXiv | 2025-07 | [GitHub](https://github.com/Mirix-AI/MIRIX/tree/public_evaluation) |![](https://img.shields.io/github/stars/Mirix-AI/MIRIX?style=social) |
 | [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398v2) | arXiv | 2025-06 | [GitHub](https://github.com/bingreeky/GMemory) |![](https://img.shields.io/github/stars/bingreeky/GMemory?style=social) |
 | [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841) | arXiv | 2025-06 | [GitHub](https://github.com/MIT-MI/MEM1) |![](https://img.shields.io/github/stars/MIT-MI/MEM1?style=social) |
+| [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326) | arXiv | 2025-06 | [GitHub](https://arxiv.org/abs/2506.06326) |![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=social) |
+| [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | arXiv | 2025-02 | [GitHub](https://github.com/WujiangXu/A-mem) |![](https://img.shields.io/github/stars/WujiangXu/A-mem?style=social) |
+| [MemGPT:Towards LLMsasOperating Systems](https://arxiv.org/abs/2310.08560) | arXiv | 2023-10 | [GitHub](https://github.com/letta-ai/letta) |![](https://img.shields.io/github/stars/letta-ai/letta?style=social) |
+| [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | arXiv | 2023-05 | [GitHub](https://github.com/zhongwanjun/MemoryBank-SiliconFriend?tab=readme-ov-file) |![](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend?style=social) |
 
 
 ---
