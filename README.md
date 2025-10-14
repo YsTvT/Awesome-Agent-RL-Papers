@@ -59,8 +59,10 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension](https://arxiv.org/pdf/2510.05520) | arXiv | 2025-10 |[GitHub](https://github.com/rui9812/CAM)|![](https://img.shields.io/github/stars/rui9812/CAM?style=social)
 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704v1) | arXiv | 2025-09 | [GitHub](https://github.com/KANABOON1/MemGen) |![](https://img.shields.io/github/stars/KANABOON1/MemGen?style=social) |
 | [Seeing, Listening, Remembering, and Reasoning: A  Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736v2) | arXiv | 2025-08 | [GitHub](https://github.com/bytedance-seed/m3-agent) |![](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social) |
+| [MemAgent: Reshaping Long-Context LLM with  Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259v1) | arXiv | 2025-07 | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) |![](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent?style=social) |
 | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957v1) | arXiv | 2025-07 | [GitHub](https://github.com/Mirix-AI/MIRIX/tree/public_evaluation) |![](https://img.shields.io/github/stars/Mirix-AI/MIRIX?style=social) |
 | [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398v2) | arXiv | 2025-06 | [GitHub](https://github.com/bingreeky/GMemory) |![](https://img.shields.io/github/stars/bingreeky/GMemory?style=social) |
+| [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841) | arXiv | 2025-06 | [GitHub](https://github.com/MIT-MI/MEM1) |![](https://img.shields.io/github/stars/MIT-MI/MEM1?style=social) |
 
 
 ---
