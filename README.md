@@ -58,6 +58,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 |-------|-------|------|------|-------|
 | [CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension](https://arxiv.org/pdf/2510.05520) | arXiv | 2025-10 |[GitHub](https://github.com/rui9812/CAM)|![](https://img.shields.io/github/stars/rui9812/CAM?style=social)
 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704v1) | arXiv | 2025-09 | [GitHub](https://github.com/KANABOON1/MemGen) |![](https://img.shields.io/github/stars/KANABOON1/MemGen?style=social) |
+| [Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911v1) | arXiv | 2025-09 | [GitHub](https://github.com/wangyu-ustc/Mem-alpha) |![](https://img.shields.io/github/stars/wangyu-ustc/Mem-alpha?style=social) |
 | [Seeing, Listening, Remembering, and Reasoning: A  Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736v2) | arXiv | 2025-08 | [GitHub](https://github.com/bytedance-seed/m3-agent) |![](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social) |
 | [MemAgent: Reshaping Long-Context LLM with  Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259v1) | arXiv | 2025-07 | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) |![](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent?style=social) |
 | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957v1) | arXiv | 2025-07 | [GitHub](https://github.com/Mirix-AI/MIRIX/tree/public_evaluation) |![](https://img.shields.io/github/stars/Mirix-AI/MIRIX?style=social) |
@@ -65,7 +66,9 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841) | arXiv | 2025-06 | [GitHub](https://github.com/MIT-MI/MEM1) |![](https://img.shields.io/github/stars/MIT-MI/MEM1?style=social) |
 | [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326) | arXiv | 2025-06 | [GitHub](https://arxiv.org/abs/2506.06326) |![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=social) |
 | [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | arXiv | 2025-02 | [GitHub](https://github.com/WujiangXu/A-mem) |![](https://img.shields.io/github/stars/WujiangXu/A-mem?style=social) |
+| [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617) | NeurIPS 2024 | 2024-02 | [GitHub](https://github.com/thunlp/InfLLM) |![](https://img.shields.io/github/stars/thunlp/InfLLM?style=social) |
 | [MemGPT:Towards LLMsasOperating Systems](https://arxiv.org/abs/2310.08560) | arXiv | 2023-10 | [GitHub](https://github.com/letta-ai/letta) |![](https://img.shields.io/github/stars/letta-ai/letta?style=social) |
+| [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174) | NeurIPS 2023 | 2023-06 | [GitHub](https://github.com/Victorwz/LongMem) |![](https://img.shields.io/github/stars/Victorwz/LongMem?style=social) |
 | [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | arXiv | 2023-05 | [GitHub](https://github.com/zhongwanjun/MemoryBank-SiliconFriend?tab=readme-ov-file) |![](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend?style=social) |
 
 
