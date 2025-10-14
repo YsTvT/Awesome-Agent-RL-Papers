@@ -81,6 +81,20 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-03 | [GitHub](https://github.com/holi-lab/ToolDial) |![](https://img.shields.io/github/stars/holi-lab/ToolDial?style=social) |
 | [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
 | [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
+| [TreeRL: LLM Reinforcement Learning with On-Policy Tree Search](https://arxiv.org/abs/2506.11902) | ACL 2025 | 2025-06 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
+| [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286) | arXiv | 2025-05 | [GitHub](https://github.com/CharlesQ9/Alita) | ![](https://img.shields.io/github/stars/CharlesQ9/Alita?style=social) |
+| [Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning](https://arxiv.org/abs/2507.01489) | arXiv | 2025-07 | - | - |
+| [TOOLVERIFIER: Generalization to New Tools via Self-Verification](https://arxiv.org/abs/2402.14158) | EMNLP 2024 | 2024-02 | [GitHub](https://github.com/facebookresearch/ToolVerifier) | ![](https://img.shields.io/github/stars/facebookresearch/ToolVerifier?style=social) |
+| [Learning to Use Tools via Cooperative and Interactive Agents with Large Language Models](https://arxiv.org/abs/2403.03031) | arXiv | 2024-03 | - | - |
+| [AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.21836) | arXiv | 2025-07 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
+| [Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773) | arXiv | 2025-05 | [GitHub](https://github.com/yyht/openrlhf_async_pipline) | ![](https://img.shields.io/github/stars/yyht/openrlhf_async_pipline) |
+| [Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/abs/2505.00024) | arXiv | 2025-05 | [GitHub](https://github.com/NVlabs/Tool-N1) | ![](https://img.shields.io/github/stars/NVlabs/Tool-N1?style=social) |
+| [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | arXiv | 2025-08 | - | - |
+
+
+
+
+
 
 ---
 
