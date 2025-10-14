@@ -64,7 +64,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ## 🔄 Multi-turn
 
-### Policy Optimization（策略优化）
+### Policy Optimization
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
@@ -76,7 +76,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Credit Assignment & Reward（信用分配与奖励）
+### Credit Assignment & Reward
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
@@ -99,7 +99,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Self-Evolution & Exploration（自我进化与探索）
+### Self-Evolution & Exploration
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
@@ -109,7 +109,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Multi-Modal & Domain-Specific（多模态与特定领域）
+### Multi-Modal & Domain-Specific
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
@@ -120,7 +120,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Advanced RL Techniques（高级强化学习技术）
+### Advanced RL Techniques
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
