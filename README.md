@@ -95,29 +95,30 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
-| [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271) | NAACL 2025 | 2025-02 | [GitHub](https://github.com/octotools/octotools) |![](https://img.shields.io/github/stars/octotools/octotools?style=social) |
-| [FROM EXPLORATION TO MASTERY: ENABLING LLMS  TO MASTER TOOLS VIA SELF-DRIVEN INTERACTIONS](https://arxiv.org/abs/2410.08197) | ICLR 2025 | 2025-02 | [GitHub](https://github.com/quchangle1/DRAFT) |![](https://img.shields.io/github/stars/quchangle1/DRAFT?style=social) |
 | [StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning](https://arxiv.org/abs/2410.07745) | CIKM 2025 | 2025-08 | [GitHub](https://github.com/yuyq18/StepTool) |![](https://img.shields.io/github/stars/yuyq18/StepTool?style=social) |
-| [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253) | arXiv | 2024-02 | [GitHub](https://github.com/dyabel/AnyTool) |![](https://img.shields.io/github/stars/dyabel/AnyTool?style=social) |
-| [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/abs/2310.17796) | ECCV 2024 | 2023-10 | [GitHub](https://github.com/OpenGVLab/ControlLLM) |![](https://img.shields.io/github/stars/OpenGVLab/ControlLLM?style=social) |
-| [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/abs/2405.14751) | NeurIPS 2024 | 2024-11 | [GitHub](https://github.com/bytarnish/AGILE) |![](https://img.shields.io/github/stars/bytarnish/AGILE?style=social) |
-| [NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling](https://arxiv.org/abs/2405.14751) | arXiv | 2025-06 | - | - |
-| [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554) | NeurIPS 2023 | 2024-01 | [GitHub](https://github.com/Ber666/ToolkenGPT) |![](https://img.shields.io/github/stars/Ber666/ToolkenGPT?style=social) |
-| [Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option](https://aclanthology.org/2024.findings-emnlp.345/) | EMNLP 2024 | 2024-10 | - | - |
-| [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2405.14751) | arXiv | 2025-03 | [GitHub](https://github.com/GAIR-NLP/ToRL) |![](https://img.shields.io/github/stars/GAIR-NLP/ToRL?style=social) |
 | [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-08 | [GitHub](https://github.com/OceannTwT/Tool-Planner) |![](https://img.shields.io/github/stars/OceannTwT/Tool-Planner?style=social) |
-| [ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-03 | [GitHub](https://github.com/holi-lab/ToolDial) |![](https://img.shields.io/github/stars/holi-lab/ToolDial?style=social) |
-| [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
-| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
+| [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | arXiv | 2025-08 | - | - |
+| [Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning](https://arxiv.org/abs/2507.01489) | arXiv | 2025-07 | - | - |
+| [AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.21836) | arXiv | 2025-07 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
+| [NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling](https://arxiv.org/abs/2405.14751) | arXiv | 2025-06 | - | - |
 | [TreeRL: LLM Reinforcement Learning with On-Policy Tree Search](https://arxiv.org/abs/2506.11902) | ACL 2025 | 2025-06 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
 | [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286) | arXiv | 2025-05 | [GitHub](https://github.com/CharlesQ9/Alita) | ![](https://img.shields.io/github/stars/CharlesQ9/Alita?style=social) |
-| [Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning](https://arxiv.org/abs/2507.01489) | arXiv | 2025-07 | - | - |
-| [TOOLVERIFIER: Generalization to New Tools via Self-Verification](https://arxiv.org/abs/2402.14158) | EMNLP 2024 | 2024-02 | [GitHub](https://github.com/facebookresearch/ToolVerifier) | ![](https://img.shields.io/github/stars/facebookresearch/ToolVerifier?style=social) |
-| [Learning to Use Tools via Cooperative and Interactive Agents with Large Language Models](https://arxiv.org/abs/2403.03031) | arXiv | 2024-03 | - | - |
-| [AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.21836) | arXiv | 2025-07 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
 | [Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773) | arXiv | 2025-05 | [GitHub](https://github.com/yyht/openrlhf_async_pipline) | ![](https://img.shields.io/github/stars/yyht/openrlhf_async_pipline) |
 | [Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/abs/2505.00024) | arXiv | 2025-05 | [GitHub](https://github.com/NVlabs/Tool-N1) | ![](https://img.shields.io/github/stars/NVlabs/Tool-N1?style=social) |
-| [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | arXiv | 2025-08 | - | - |
+| [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2405.14751) | arXiv | 2025-03 | [GitHub](https://github.com/GAIR-NLP/ToRL) |![](https://img.shields.io/github/stars/GAIR-NLP/ToRL?style=social) |
+| [ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-03 | [GitHub](https://github.com/holi-lab/ToolDial) |![](https://img.shields.io/github/stars/holi-lab/ToolDial?style=social) |
+| [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271) | NAACL 2025 | 2025-02 | [GitHub](https://github.com/octotools/octotools) |![](https://img.shields.io/github/stars/octotools/octotools?style=social) |
+| [From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions](https://arxiv.org/abs/2410.08197) | ICLR 2025 | 2025-02 | [GitHub](https://github.com/quchangle1/DRAFT) |![](https://img.shields.io/github/stars/quchangle1/DRAFT?style=social) |
+| [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/abs/2405.14751) | NeurIPS 2024 | 2024-11 | [GitHub](https://github.com/bytarnish/AGILE) |![](https://img.shields.io/github/stars/bytarnish/AGILE?style=social) |
+| [Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option](https://aclanthology.org/2024.findings-emnlp.345/) | EMNLP 2024 | 2024-10 | - | - |
+| [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
+| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
+| [Learning to Use Tools via Cooperative and Interactive Agents with Large Language Models](https://arxiv.org/abs/2403.03031) | arXiv | 2024-03 | - | - |
+| [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253) | arXiv | 2024-02 | [GitHub](https://github.com/dyabel/AnyTool) |![](https://img.shields.io/github/stars/dyabel/AnyTool?style=social) |
+| [TOOLVERIFIER: Generalization to New Tools via Self-Verification](https://arxiv.org/abs/2402.14158) | EMNLP 2024 | 2024-02 | [GitHub](https://github.com/facebookresearch/ToolVerifier) | ![](https://img.shields.io/github/stars/facebookresearch/ToolVerifier?style=social) |
+| [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554) | NeurIPS 2023 | 2024-01 | [GitHub](https://github.com/Ber666/ToolkenGPT) |![](https://img.shields.io/github/stars/Ber666/ToolkenGPT?style=social) |
+| [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/abs/2310.17796) | ECCV 2024 | 2023-10 | [GitHub](https://github.com/OpenGVLab/ControlLLM) |![](https://img.shields.io/github/stars/OpenGVLab/ControlLLM?style=social) |
+
 
 ---
 
@@ -127,11 +128,12 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
-| [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | ICML 2025 | 2024-07 | [GitHub](https://github.com/OPPO-PersonalAI/Agent-KB) | ![](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB?style=social) |
-| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | arXiv | 2024-09 | [GitHub](https://github.com/zorazrw/agent-workflow-memory) | ![](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory?style=social) |
-| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/FoundationAgents/AFlow) | ![](https://img.shields.io/github/stars/FoundationAgents/AFlow?style=social) |
-| [Get Experience from Practice: LLM Agents with Record & Replay](https://arxiv.org/abs/2505.17716) | arXiv  | 2025-05 | - | - |
 | [Agentdistill: training-free agent distillation withgeneralizable mcp boxes](https://arxiv.org/abs/2506.14728) | arXiv | 2025-06 | - | - |
+| [Get Experience from Practice: LLM Agents with Record & Replay](https://arxiv.org/abs/2505.17716) | arXiv  | 2025-05 | - | - |
+| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/FoundationAgents/AFlow) | ![](https://img.shields.io/github/stars/FoundationAgents/AFlow?style=social) |
+| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | arXiv | 2024-09 | [GitHub](https://github.com/zorazrw/agent-workflow-memory) | ![](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory?style=social) |
+| [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | ICML 2025 | 2024-07 | [GitHub](https://github.com/OPPO-PersonalAI/Agent-KB) | ![](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB?style=social) |
+
 
 ---
 
