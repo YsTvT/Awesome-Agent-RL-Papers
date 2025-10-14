@@ -87,3 +87,15 @@ A curated collection of research papers on LLM-based agents and agent training m
 |-------|-------|------|------|-------|
 | [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
 | [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
+
+## 🎯 Agent Evaluation & Benchmark
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools](https://arxiv.org/abs/2509.09734) | arXiv | 2025-09 | - | - |
+| [GitTaskBench: A Benchmark for Code Agents](https://arxiv.org/abs/2508.18993) | arXiv | 2025-08 | [GitHub](https://github.com/QuantaAlpha/GitTaskBench) | ![](https://img.shields.io/github/stars/QuantaAlpha/GitTaskBench?style=social) |
+| [MLE-bench: Evaluating Machine Learning Agents on ML Engineering](https://arxiv.org/abs/2410.07095) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/openai/mle-bench) | ![](https://img.shields.io/github/stars/openai/mle-bench?style=social) |
+| [WorFBench: Benchmarking Agentic Workflow Generation](https://arxiv.org/abs/2410.07869) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/zjunlp/WorfBench) | ![](https://img.shields.io/github/stars/zjunlp/WorfBench?style=social) |
+| [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470) | CoRR 2024 | 2024-12 | [GitHub](https://github.com/thu-coai/Agent-SafetyBench) | ![](https://img.shields.io/github/stars/thu-coai/Agent-SafetyBench?style=social) |
+| [CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation](https://arxiv.org/abs/2401.01275) | ACL 2024 | 2024-01 | [GitHub](https://github.com/morecry/CharacterEval) | ![](https://img.shields.io/github/stars/morecry/CharacterEval?style=social) |
+| [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688) | ICLR 2024 | 2023-08 | [GitHub](https://github.com/THUDM/AgentBench) | ![](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) |
+
