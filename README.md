@@ -63,14 +63,22 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-## 🎯 Agent Memory
+## 🎯 Tool Calling
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
+| [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271) | NAACL 2025 | 2025-02 | [GitHub](https://github.com/octotools/octotools) |![](https://img.shields.io/github/stars/octotools/octotools?style=social) |
 | [FROM EXPLORATION TO MASTERY: ENABLING LLMS  TO MASTER TOOLS VIA SELF-DRIVEN INTERACTIONS](https://arxiv.org/abs/2410.08197) | ICLR 2025 | 2025-02 | [GitHub](https://github.com/quchangle1/DRAFT) |![](https://img.shields.io/github/stars/quchangle1/DRAFT?style=social) |
 | [StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning](https://arxiv.org/abs/2410.07745) | CIKM 2025 | 2025-08 | [GitHub](https://github.com/yuyq18/StepTool) |![](https://img.shields.io/github/stars/yuyq18/StepTool?style=social) |
 | [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253) | arXiv | 2024-02 | [GitHub](https://github.com/dyabel/AnyTool) |![](https://img.shields.io/github/stars/dyabel/AnyTool?style=social) |
 | [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/abs/2310.17796) | ECCV 2024 | 2023-10 | [GitHub](https://github.com/OpenGVLab/ControlLLM) |![](https://img.shields.io/github/stars/OpenGVLab/ControlLLM?style=social) |
+| [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/abs/2405.14751) | NeurIPS 2024 | 2024-11 | [GitHub](https://github.com/bytarnish/AGILE) |![](https://img.shields.io/github/stars/bytarnish/AGILE?style=social) |
+| [NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling](https://arxiv.org/abs/2405.14751) | arXiv | 2025-06 | - | - |
+| [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554) | NeurIPS 2023 | 2024-01 | [GitHub](https://github.com/Ber666/ToolkenGPT) |![](https://img.shields.io/github/stars/Ber666/ToolkenGPT?style=social) |
+| [Toolken+: Improving LLM Tool Usage with Reranking and a Reject Option](https://aclanthology.org/2024.findings-emnlp.345/) | EMNLP 2024 | 2024-10 | - | - |
+| [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2405.14751) | arXiv | 2025-03 | [GitHub](https://github.com/GAIR-NLP/ToRL) |![](https://img.shields.io/github/stars/GAIR-NLP/ToRL?style=social) |
+| [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-08 | [GitHub](https://github.com/OceannTwT/Tool-Planner) |![](https://img.shields.io/github/stars/OceannTwT/Tool-Planner?style=social) |
+| [ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-03 | [GitHub](https://github.com/holi-lab/ToolDial) |![](https://img.shields.io/github/stars/holi-lab/ToolDial?style=social) |
 
 ---
 
