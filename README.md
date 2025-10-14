@@ -36,11 +36,24 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915) | arXiv | 2023-10 | [GitHub](https://github.com/anchen1011/FireAct) | ![](https://img.shields.io/github/stars/anchen1011/FireAct?style=social) |
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 | 2023-05 | [GitHub](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | ![](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch?style=social) |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 | 2023-03 | [GitHub](https://github.com/noahshinn024/reflexion) | ![](https://img.shields.io/github/stars/noahshinn024/reflexion?style=social) |
-
+| [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) | ICLR 2026 under review| 2025-09 | - | - |
+| [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/abs/2509.02479) | arXiv | 2025-09 | [GitHub](https://github.com/ltzheng/SimpleTIR) | ![](https://img.shields.io/github/stars/ltzheng/SimpleTIR?style=social) |
+| [Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment](https://arxiv.org/abs/2505.11821) | arXiv | 2025-05 | [GitHub](https://github.com/SiliangZeng/Multi-Turn-RL-Agent) | ![](https://img.shields.io/github/stars/SiliangZeng/Multi-Turn-RL-Agent?style=social) |
+| [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | arXiv | 2025-05 | [GitHub](https://github.com/facebookresearch/sweet_rl) | ![](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social) |
+| [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978) | arXiv | 2025-05 | [GitHub](https://github.com/langfengQ/verl-agent) | ![](https://img.shields.io/github/stars/langfengQ/verl-agent?style=social) |
+| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) | COLM 2025 | 2025-05 | [GitHub](https://github.com/PeterGriffinJin/Search-R1) | ![](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social) |
+| [Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning](https://arxiv.org/abs/2505.03792) | ICML 2025 | 2025-05 | [GitHub](https://github.com/langfengQ/CoSo) | ![](https://img.shields.io/github/stars/langfengQ/CoSo?style=social) |
+| [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) | arXiv | 2025-04 | [GitHub](https://github.com/mll-lab-nu/RAGEN) | ![](https://img.shields.io/github/stars/mll-lab-nu/RAGEN?style=social) |
+| [NAT: Enhancing Agent Tuning with Negative Samples](https://aclanthology.org/2025.naacl-long.378/) | NAACL 2025 | 2025-04 | [GitHub](https://github.com/Reason-Wang/NAT) | ![](https://img.shields.io/github/stars/Reason-Wang/NAT?style=social) |
+| [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470) | arXiv | 2025-03 | [GitHub](https://github.com/Agent-RL/ReCall) | ![](https://img.shields.io/github/stars/Agent-RL/ReCall?style=social) |
+| [AgentRefine: Enhancing Agent Generalization through Refinement Tuning](https://arxiv.org/abs/2501.01702) | ICLR 2025 | 2025-01 | - | - |
+| [Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning](https://arxiv.org/abs/2411.14497) | NeurIPS 2024 | 2024-11 | - | - |
+| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
 
 ---
 
 ## 🎯 Agent Memory
+
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704v1) | arXiv | 2025-09 | [GitHub](https://github.com/KANABOON1/MemGen) |![](https://img.shields.io/github/stars/KANABOON1/MemGen?style=social) |
@@ -51,6 +64,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 ---
 
 ## 🎯 Agent Memory
+
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
 | [FROM EXPLORATION TO MASTERY: ENABLING LLMS  TO MASTER TOOLS VIA SELF-DRIVEN INTERACTIONS](https://arxiv.org/abs/2410.08197) | ICLR 2025 | 2025-02 | [GitHub](https://github.com/quchangle1/DRAFT) |![](https://img.shields.io/github/stars/quchangle1/DRAFT?style=social) |
@@ -59,3 +73,17 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/abs/2310.17796) | ECCV 2024 | 2023-10 | [GitHub](https://github.com/OpenGVLab/ControlLLM) |![](https://img.shields.io/github/stars/OpenGVLab/ControlLLM?style=social) |
 
 ---
+
+## 🎯 Multi-turn
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) | ICLR 2026 under review| 2025-09 | - | - |
+| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
+
+---
+
+## 🎯 Tool-Calling
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) | arXiv | 2024-07 | [GitHub](https://github.com/InternLM/MindSearch) | ![](https://img.shields.io/github/stars/InternLM/MindSearch?style=social) |
+| [Executable Code Actions Elicit Better LLM Agents](https://openreview.net/forum?id=jJ9BoXAfFa) | ICML 2024 | 2024-05 | [GitHub](https://github.com/xingyaoww/code-act) | ![](https://img.shields.io/github/stars/xingyaoww/code-act?style=social) |
