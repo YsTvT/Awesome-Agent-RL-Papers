@@ -66,11 +66,13 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841) | arXiv | 2025-06 | [GitHub](https://github.com/MIT-MI/MEM1) |![](https://img.shields.io/github/stars/MIT-MI/MEM1?style=social) |
 | [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326) | arXiv | 2025-06 | [GitHub](https://arxiv.org/abs/2506.06326) |![](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=social) |
 | [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | arXiv | 2025-02 | [GitHub](https://github.com/WujiangXu/A-mem) |![](https://img.shields.io/github/stars/WujiangXu/A-mem?style=social) |
+| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ICML 2025 | 2024-09 | [GitHub](https://github.com/zorazrw/agent-workflow-memory) |![](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory?style=social) |
 | [InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617) | NeurIPS 2024 | 2024-02 | [GitHub](https://github.com/thunlp/InfLLM) |![](https://img.shields.io/github/stars/thunlp/InfLLM?style=social) |
+| [RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents](https://arxiv.org/abs/2402.03610) | NeurIPS 2024 | 2024-02 | [GitHub](https://github.com/PanasonicConnect/rap) |![](https://img.shields.io/github/stars/PanasonicConnect/rap?style=social) |
 | [MemGPT:Towards LLMsasOperating Systems](https://arxiv.org/abs/2310.08560) | arXiv | 2023-10 | [GitHub](https://github.com/letta-ai/letta) |![](https://img.shields.io/github/stars/letta-ai/letta?style=social) |
 | [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174) | NeurIPS 2023 | 2023-06 | [GitHub](https://github.com/Victorwz/LongMem) |![](https://img.shields.io/github/stars/Victorwz/LongMem?style=social) |
 | [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | AAAI 2024 | 2023-05 | [GitHub](https://github.com/zhongwanjun/MemoryBank-SiliconFriend?tab=readme-ov-file) |![](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend?style=social) |
-
+| [Towards mental time travel: a hierarchical memory for reinforcement learning agents](https://arxiv.org/abs/2105.14039) | NeurIPS 2021 | 2021-05 | - | - |
 
 ---
 
