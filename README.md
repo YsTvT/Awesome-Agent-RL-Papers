@@ -8,9 +8,11 @@ A curated collection of research papers on LLM-based agents and agent training m
 ## 📋 Table of Contents
 - [Agent Tuning](#agent-tuning)
 - [Agent Memory](#agent-memory)
-- [Multi-turn ](#multi-turn)
+- [Multi-turn](#multi-turn)
 - [Tool Calling](#tool-calling)
 - [Search Agent](#search-agent)
+- [Agent Workflow](#agent-workflow)
+- [Agent Evaluation & Benchmark](#agent-evaluation--benchmark)
 ---
 
 ## 🎯 Agent Tuning
