@@ -86,6 +86,21 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [A Simple "Try Again" Can Elicit Multi-Turn LLM Reasoning](https://arxiv.org/abs/2507.14295v2) | arXiv | 2025-07 | [GitHub](https://github.com/lichengliu03/unary-feedback) | ![](https://img.shields.io/github/stars/lichengliu03/unary-feedback?style=social) |
 | [Done Is Better Than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition](https://arxiv.org/abs/2505.19788v2) | arXiv | 2025-05 | - | - |
 
+---
+
+### Environment and Framework
+
+| Title | Venue | Date | Code | Stars |
+|-------|-------|------|------|-------|
+| [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making Through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755v1) | arXiv | 2025-09 | [GitHub](https://github.com/woooodyy/AgentGym-RL) | ![](https://img.shields.io/github/stars/woooodyy/AgentGym-RL?style=social) |
+| [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446v1) | arXiv | 2025-09 | [GitHub](https://github.com/THUDM/DeepDive) | ![](https://img.shields.io/github/stars/THUDM/DeepDive?style=social) |
+| [MUA-RL: Multi-Turn User-Interacting Agent Reinforcement Learning for Agentic Tool Use](https://arxiv.org/abs/2508.18669v1) | arXiv | 2025-08 | [GitHub](https://github.com/zzwkk/MUA-RL) | ![](https://img.shields.io/github/stars/zzwkk/MUA-RL?style=social) |
+| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
+| [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073v2) | arXiv | 2025-04 | [GitHub](https://github.com/RAGEN-AI/RAGEN) | ![](https://img.shields.io/github/stars/RAGEN-AI/RAGEN?style=social) |
+| [EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](https://arxiv.org/abs/2509.04310v2) | arXiv | 2025-09 | - | - |
+---
+
+
 ### Policy Optimization
 
 | Title | Venue | Date | Code | Stars |
@@ -108,17 +123,6 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 ---
 
-### Environment and Framework
-
-| Title | Venue | Date | Code | Stars |
-|-------|-------|------|------|-------|
-| [AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making Through Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.08755v1) | arXiv | 2025-09 | [GitHub](https://github.com/woooodyy/AgentGym-RL) | ![](https://img.shields.io/github/stars/woooodyy/AgentGym-RL?style=social) |
-| [DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL](https://arxiv.org/abs/2509.10446v1) | arXiv | 2025-09 | [GitHub](https://github.com/THUDM/DeepDive) | ![](https://img.shields.io/github/stars/THUDM/DeepDive?style=social) |
-| [MUA-RL: Multi-Turn User-Interacting Agent Reinforcement Learning for Agentic Tool Use](https://arxiv.org/abs/2508.18669v1) | arXiv | 2025-08 | [GitHub](https://github.com/zzwkk/MUA-RL) | ![](https://img.shields.io/github/stars/zzwkk/MUA-RL?style=social) |
-| [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | arXiv | 2024-02 | [GitHub](https://github.com/YifeiZhou02/ArCHer) | ![](https://img.shields.io/github/stars/YifeiZhou02/ArCHer?style=social) |
-| [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073v2) | arXiv | 2025-04 | [GitHub](https://github.com/RAGEN-AI/RAGEN) | ![](https://img.shields.io/github/stars/RAGEN-AI/RAGEN?style=social) |
-| [EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](https://arxiv.org/abs/2509.04310v2) | arXiv | 2025-09 | - | - |
----
 
 ### Unknown category
 
