@@ -147,7 +147,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 | [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | arXiv | 2025-08 | - | - |
 | [Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning](https://arxiv.org/abs/2507.01489) | arXiv | 2025-07 | - | - |
 | [AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.21836) | arXiv | 2025-07 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
-| [NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling](https://arxiv.org/abs/2405.14751) | arXiv | 2025-06 | - | - |
+| [NaviAgent: Bilevel Planning on Tool Dependency Graphs for Function Calling](https://arxiv.org/abs/2506.19500) | arXiv | 2025-06 | - | - |
 | [TreeRL: LLM Reinforcement Learning with On-Policy Tree Search](https://arxiv.org/abs/2506.11902) | ACL 2025 | 2025-06 | [GitHub](https://github.com/THUDM/TreeRL) | ![](https://img.shields.io/github/stars/THUDM/TreeRL?style=social) |
 | [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286) | arXiv | 2025-05 | [GitHub](https://github.com/CharlesQ9/Alita) | ![](https://img.shields.io/github/stars/CharlesQ9/Alita?style=social) |
 | [Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving](https://arxiv.org/abs/2505.07773) | arXiv | 2025-05 | [GitHub](https://github.com/yyht/openrlhf_async_pipline) | ![](https://img.shields.io/github/stars/yyht/openrlhf_async_pipline) |
