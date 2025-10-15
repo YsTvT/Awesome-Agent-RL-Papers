@@ -1,4 +1,4 @@
-# Awesome Agent RL Papers
+# Awesome Agentic RL Papers
 
 A curated collection of research papers on LLM-based agents and agent training methodologies.
 
