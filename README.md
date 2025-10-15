@@ -124,7 +124,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 ---
 
 
-### Unknown category
+### Specific Domain
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
