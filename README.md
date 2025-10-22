@@ -8,7 +8,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 ## 📋 Table of Contents
 - [Agent Tuning](#agent-tuning)
 - [Agent Memory](#agent-memory)
-- [Multi-turn](#multi-turn)
+- [Multi-turn](#Multi-turn)
 - [Tool Calling](#tool-calling)
 - [Search Agent](#search-agent)
 - [Agent Workflow](#agent-workflow)
@@ -133,8 +133,8 @@ A curated collection of research papers on LLM-based agents and agent training m
 |-------|-------|------|------|-------|
 | [HYBRID REWARD NORMALIZATION FOR PROCESSSUPERVISED NON-VERIFIABLE AGENTIC TASKS](https://arxiv.org/abs/2509.25598v1) | arXiv | 2025-09 | - | - |
 | [PARL-MT: Learning to Call Functions in Multi-Turn Conversation with Progress Awareness](https://arxiv.org/abs/2509.23206v2) | arXiv | 2025-09 | - | - |
-| [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732v1) | arXiv | 2025-09 | [https://github.com/WangHanLinHenry/SPA-RL-Agent](https://github.com/WangHanLinHenry/SPA-RL-Agent) | ![](https://img.shields.io/github/stars/WangHanLinHenry/SPA-RL-Agent?style=social) |
-| [Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/abs/2502.20380v2) | arXiv | 2025-09 | [https://github.com/portal-cornell/muCode](https://github.com/portal-cornell/muCode) | ![](https://img.shields.io/github/stars/portal-cornell/muCode?style=social) |
+| [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732v1) | arXiv | 2025-09 | [[GitHub](https://github.com/WangHanLinHenry/SPA-RL-Agent)](https://github.com/WangHanLinHenry/SPA-RL-Agent) | ![](https://img.shields.io/github/stars/WangHanLinHenry/SPA-RL-Agent?style=social) |
+| [Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/abs/2502.20380v2) | arXiv | 2025-09 | [[GitHub](https://github.com/portal-cornell/muCode)](https://github.com/portal-cornell/muCode) | ![](https://img.shields.io/github/stars/portal-cornell/muCode?style=social) |
 | [Stabilizing Long-term Multi-turn Reinforcement Learning with Gated Rewards](https://arxiv.org/abs/2508.10548v1) | arXiv | 2025-08 | - | - |
 | [Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment](https://arxiv.org/abs/2505.11821v1) | arXiv | 2025-05 | [GitHub](https://github.com/SiliangZeng/Multi-Turn-RL-Agent) | ![](https://img.shields.io/github/stars/SiliangZeng/Multi-Turn-RL-Agent?style=social) |
 | [Multi-Turn Reinforcement Learning from Preference Human Feedback](https://arxiv.org/abs/2405.14655v2) | NeurIPS 2024 | 2024-05 | - | - |
